@@ -70,7 +70,7 @@ Evaluation metrics:
 - Logistic regression was the most accurate classification model.
   
 
-- # Text Encoding and Word Embedding Analysis using Word2Vec
+# Text Encoding and Word Embedding Analysis using Word2Vec
 
 ## Overview
 This project focuses on Natural Language Processing (NLP) techniques for text preprocessing, word embedding generation, clustering, visualization, and classification. The project builds semantic word representations using Word2Vec and analyzes relationships among words through clustering.
